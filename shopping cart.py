@@ -1,4 +1,4 @@
-cart = ["Apple"]
+cart = []
 
 while True:
     print("\nShopping Cart Menu")
